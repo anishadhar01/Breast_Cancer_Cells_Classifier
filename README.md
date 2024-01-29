@@ -6,3 +6,5 @@ This notebook consists of the notebook file that consists of a supervised learni
 1. Logistic Regression 
 2. Random Forest Classifier 
 3. KNN Classifier 
+
+Note : Incase the notebook file fails to render here on github , view it via nbviewer through this [link](https://nbviewer.org/github/anishadhar01/Breast_Cancer_Cells_Classifier/tree/main/).
